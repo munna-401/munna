@@ -65,6 +65,7 @@ a:hover {
     background-color: #E3EDD8;
     }
 
+
 /*.left
 {
     
@@ -77,14 +78,17 @@ a:hover {
   
     }*/
 
+
     
 #footer
 {
-    height:40px;
+    height:70px;
     clear:both;
     position: relative;
     background-color: #C1E3E1;
+    margin-top: 200px;
     }
+    
     
 h3
 {
@@ -126,8 +130,21 @@ td
 .job-duration
 {
     float:right;
-    }
+}
 #heading
 {
     font-weight:bold;
     }
+
+#menu  a{
+    text-decoration: none;
+    
+    color:white;
+    padding: 10px 10px;
+    margin: auto;
+}
+#share img{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 30px;
+}
